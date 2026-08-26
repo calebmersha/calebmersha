@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🚀 Featured Projects
+
+My infrastructure, networking, monitoring, automation and software engineering projects will be added here as the portfolio develops.
+
 <!--
 **calebmersha/calebmersha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
