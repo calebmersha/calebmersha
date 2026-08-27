@@ -1,65 +1,59 @@
-## Hi there 👋 I'm Caleb Mersha
+IT Infrastructure & Systems Engineer
 
-## 🚀 Featured Projects
+I work across IT infrastructure, systems administration, networking, virtualization, monitoring, automation, and software engineering.
 
-My infrastructure, networking, monitoring, automation and software engineering projects will be added here as the portfolio develops.
+I enjoy building reliable technical environments, troubleshooting complex problems, automating repetitive tasks, and documenting practical IT solutions.
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
+Systems Administration
+Windows Server
+Linux
+Active Directory
+DNS & DHCP
+SSH
+System Troubleshooting
+Networking
+TCP/IP
+VLANs
+Routing
+STP/PVST
+Network Troubleshooting
+Cisco
+pfSense
+Virtualization
+VMware
+Hyper-V
+VirtualBox
+Monitoring
+Zabbix
+Grafana
+Server & Infrastructure Monitoring
+Performance Monitoring
+Automation & Software
+PowerShell
+Windows Batch
+VBS
+HTML
+CSS
+JavaScript
+APIs
+WordPress
+🚀 Featured Projects
 
-| Area | Technologies |
-|---|---|
-| **Systems Administration** | Windows Server, Linux, Active Directory, DNS, DHCP, Group Policy |
-| **Networking** | TCP/IP, VLANs, Routing, STP, Cisco, pfSense |
-| **Virtualization** | VMware, Hyper-V, VirtualBox |
-| **Monitoring** | Zabbix, Grafana |
-| **Automation** | PowerShell, Batch, VBS |
-| **Software** | HTML, CSS, JavaScript, APIs, WordPress |
+Projects covering infrastructure, networking, monitoring, Linux administration, Windows administration, automation, and technical documentation will be published here.
 
----
+🎓 Education
 
-## 🚀 Featured Projects
+MSc — Software Engineering
 
-🔹 **Enterprise Infrastructure Lab**  
-Windows Server, Active Directory, DNS, DHCP, Group Policy and virtualization.
+BSc — Electrical Engineering
 
-🔹 **Zabbix & Grafana Monitoring Lab**  
-Infrastructure monitoring, server performance, disk, memory, CPU and network monitoring.
+🌐 Portfolio
 
-🔹 **Network Infrastructure Lab**  
-VLANs, routing, STP/PVST, firewall configuration and network troubleshooting.
+Visit My Portfolio
 
-🔹 **Linux Server Administration**  
-RHEL and Ubuntu server deployment, networking, SSH, repositories and system administration.
+🤝 Connect
 
-🔹 **Windows IT Automation**  
-PowerShell, Batch and VBS automation for system administration and software deployment.
+GitHub: github.com/calebmersha
 
-🔹 **IT Support & Troubleshooting SOPs**  
-Professional documentation for workstation, printer, software and infrastructure troubleshooting.
-
----
-
-## 🎓 Education
-
-**MSc — Software Engineering**
-
-**BSc — Electrical Engineering**
-
----
-
-## 🌐 Portfolio
-
-<!--
-**calebmersha/calebmersha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: Add your LinkedIn profile here.
