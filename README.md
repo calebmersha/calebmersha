@@ -1,4 +1,4 @@
-##👋 Hi, I'm Caleb Mersha
+ Hi, I'm Caleb Mersha
 IT Infrastructure & Systems Engineer
 
 I work across IT infrastructure, systems administration, networking, virtualization, monitoring, automation, and software engineering.
@@ -55,6 +55,6 @@ Visit My Portfolio
 
 🤝 Connect
 
-GitHub: github.com/calebmersha
+GitHub: https://github.com/calebmersha
 
 LinkedIn: www.linkedin.com/in/caleb-mersha-39429a431
